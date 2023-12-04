@@ -49,11 +49,16 @@ pre.highlight code,
     margin: 0 20px 10px;
 }
 
+
 .user-image {
+  display: none;
+  /*
   margin-bottom: 1.2em;
   position: relative;
-  width: 100px;
-  height: 100px;
-  border: 3px solid #fff;
+  width: 150px;
+  height: 150px;
   border-radius:100%;
+  -webkit-filter: grayscale(60%);
+  filter: grayscale(60%);
+  */
 }
