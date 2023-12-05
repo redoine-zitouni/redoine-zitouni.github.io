@@ -981,7 +981,6 @@ h5 {
 
 p {
 	margin-bottom: 1.3em;
-	text-align:justify;
 	line-height: 1.7em; }
 
 strong {
@@ -1170,6 +1169,9 @@ hr {
 	margin: 0 auto;
 	border-radius: 3px;
 	text-align: center; }
+.post p {
+	text-align: justify;
+}
 .post pre {
 	width: 95%; }
 .post hr {
