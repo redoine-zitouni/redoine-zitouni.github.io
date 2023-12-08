@@ -1,6 +1,6 @@
 ---
 title:  "Introduction to Similarity-Based Model for Anomaly Detection"
-date:   2022-12-01 12:30:00
+date:   2023-12-01 12:30:00
 categories: [anomaly-detection, similarity-based-modeling, non-parametric, machine-learning, predictive-maintenance, unsupervised-learning]
 tags: [anomaly-detection, similarity-based-modeling, non-parametric, machine-learning, predictive-maintenance, unsupervised-learning]
 author: Redoine Z.
