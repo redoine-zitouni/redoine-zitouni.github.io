@@ -1,5 +1,5 @@
 # Site settings
-title: Redoine Z.
+title: Redoine
 description: 'Data Scientist'
 url: 'https://redoine-zitouni.github.io'
 baseurl: ''
@@ -13,7 +13,7 @@ author:
 #  twitter_username: redoine
 #  facebook_username: redoine
   github_username:  redoine-zitouni
-  linkedin_username:  redoine.z
+  linkedin_username:  z-redoine
 
 defaults:
   -
